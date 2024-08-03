@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Dreamscape Symphony",
+    "price": 150,
+    "imageCover": "dreamscape_symphony.jpg"
+  },
+  {
+    "title": "Celestial Visions",
+    "price": 320,
+    "imageCover": "celestial_visions.jpg"
+  },
+  {
+    "title": "Ethereal Horizons",
+    "price": 275,
+    "imageCover": "ethereal_horizons.jpg"
+  },
+  {
+    "title": "Neon Reverie",
+    "price": 230,
+    "imageCover": "neon_reverie.jpg"
+  },
+  {
+    "title": "Quantum Mirage",
+    "price": 480,
+    "imageCover": "quantum_mirage.jpg"
+  },
+  {
+    "title": "Arcane Reflections",
+    "price": 199,
+    "imageCover": "arcane_reflections.jpg"
+  },
+  {
+    "title": "Digital Oasis",
+    "price": 315,
+    "imageCover": "digital_oasis.jpg"
+  },
+  {
+    "title": "Luminous Dream",
+    "price": 260,
+    "imageCover": "luminous_dream.jpg"
+  },
+  {
+    "title": "Mystic Landscapes",
+    "price": 350,
+    "imageCover": "mystic_landscapes.jpg"
+  },
+  {
+    "title": "Galactic Whispers",
+    "price": 420,
+    "imageCover": "galactic_whispers.jpg"
+  },
+  {
+    "title": "Surreal Echoes",
+    "price": 180,
+    "imageCover": "surreal_echoes.jpg"
+  },
+  {
+    "title": "Virtual Harmony",
+    "price": 200,
+    "imageCover": "virtual_harmony.jpg"
+  },
+  {
+    "title": "Fantasia Fusion",
+    "price": 275,
+    "imageCover": "fantasia_fusion.jpg"
+  },
+  {
+    "title": "Spectral Paradigm",
+    "price": 495,
+    "imageCover": "spectral_paradigm.jpg"
+  },
+  {
+    "title": "Prismatic Dreams",
+    "price": 125,
+    "imageCover": "prismatic_dreams.jpg"
+  },
+  {
+    "title": "Infinity's Canvas",
+    "price": 375,
+    "imageCover": "infinitys_canvas.jpg"
+  }
+]
