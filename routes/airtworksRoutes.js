@@ -10,6 +10,7 @@ const {
   createAirtwork,
   updateAirtwork,
   deleteAirtwork,
+  getAirtworkStats,
 } = require("../controllers/airtworksControllers");
 
 //* Top-Level Code
@@ -19,6 +20,9 @@ const {
 const router = express.Router();
 
 //* Airtworks Routes
+
+// Aggregation Stats!
+router.route("/airtwork-stats").get(getAirtworkStats);
 
 // GET: Get summary of all airtworks
 // POST: Add new airtwork

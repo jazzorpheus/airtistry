@@ -1,82 +1,206 @@
 [
   {
-    "title": "Dreamscape Symphony",
-    "price": 150,
-    "imageCover": "dreamscape_symphony.jpg"
+    "title": "Neon Dreams",
+    "price": 250.0,
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 23,
+    "summary": "A vibrant explosion of neon colors that captivates the imagination.",
+    "description": "This artwork showcases a mesmerizing blend of bright neon hues, creating an ethereal dreamscape that evokes a sense of wonder and curiosity. Perfect for modern interiors looking to add a pop of color.",
+    "imageCover": "neon_dreams_cover.jpg",
+    "images": ["neon_dreams_1.jpg", "neon_dreams_2.jpg", "neon_dreams_3.jpg"],
+    "createdAt": "2024-08-25T14:35:20.000Z"
   },
   {
-    "title": "Celestial Visions",
-    "price": 320,
-    "imageCover": "celestial_visions.jpg"
+    "title": "Serenity of the Forest",
+    "price": 180.0,
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 17,
+    "summary": "A tranquil forest scene that brings peace and calm to any space.",
+    "description": "This AI-assisted artwork captures the serene beauty of a dense forest, bathed in soft morning light. The intricate details of the leaves and the play of light and shadow create a peaceful atmosphere, ideal for relaxation areas.",
+    "imageCover": "serenity_forest_cover.jpg",
+    "images": ["serenity_forest_1.jpg", "serenity_forest_2.jpg"],
+    "createdAt": "2024-08-24T09:12:00.000Z"
   },
   {
-    "title": "Ethereal Horizons",
-    "price": 275,
-    "imageCover": "ethereal_horizons.jpg"
+    "title": "Cosmic Odyssey",
+    "price": 320.0,
+    "ratingsAverage": 4.9,
+    "ratingsQuantity": 45,
+    "summary": "A journey through the stars, capturing the vastness of the cosmos.",
+    "description": "Cosmic Odyssey is an artwork that takes you on a visual voyage through space. The AI-generated imagery depicts swirling galaxies, distant stars, and vibrant nebulae, all in stunning detail. It's a perfect piece for those who love to gaze into the mysteries of the universe.",
+    "imageCover": "cosmic_odyssey_cover.jpg",
+    "images": [
+      "cosmic_odyssey_1.jpg",
+      "cosmic_odyssey_2.jpg",
+      "cosmic_odyssey_3.jpg",
+      "cosmic_odyssey_4.jpg"
+    ],
+    "createdAt": "2024-08-23T11:45:30.000Z"
   },
   {
-    "title": "Neon Reverie",
-    "price": 230,
-    "imageCover": "neon_reverie.jpg"
+    "title": "Abstract Waves",
+    "price": 150.0,
+    "ratingsAverage": 4.3,
+    "ratingsQuantity": 12,
+    "summary": "An abstract representation of ocean waves in motion.",
+    "description": "This AI artwork is a creative interpretation of the fluid dynamics of ocean waves. The abstract forms and subtle color gradients create a sense of movement and rhythm, making it an ideal piece for contemporary spaces.",
+    "imageCover": "abstract_waves_cover.jpg",
+    "images": ["abstract_waves_1.jpg", "abstract_waves_2.jpg"],
+    "createdAt": "2024-08-26T08:22:45.000Z"
   },
   {
-    "title": "Quantum Mirage",
-    "price": 480,
-    "imageCover": "quantum_mirage.jpg"
+    "title": "Urban Vibes",
+    "price": 200.0,
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 30,
+    "summary": "A vibrant depiction of city life through AI-assisted artistry.",
+    "description": "Urban Vibes captures the energy and diversity of a bustling cityscape. The AI has generated a colorful and dynamic interpretation of urban life, with layers of details that reveal new aspects each time you look at it.",
+    "imageCover": "urban_vibes_cover.jpg",
+    "images": ["urban_vibes_1.jpg", "urban_vibes_2.jpg", "urban_vibes_3.jpg"],
+    "createdAt": "2024-08-22T17:05:10.000Z"
   },
   {
-    "title": "Arcane Reflections",
-    "price": 199,
-    "imageCover": "arcane_reflections.jpg"
+    "title": "Mystic Mountains",
+    "price": 280.0,
+    "ratingsAverage": 4.4,
+    "ratingsQuantity": 18,
+    "summary": "A majestic mountain range enveloped in mist.",
+    "description": "Mystic Mountains is an artwork that portrays a breathtaking mountain range shrouded in mist. The AI-assisted details bring out the raw beauty and grandeur of nature, making it a perfect centerpiece for any nature lover's home.",
+    "imageCover": "mystic_mountains_cover.jpg",
+    "images": ["mystic_mountains_1.jpg", "mystic_mountains_2.jpg"],
+    "createdAt": "2024-08-21T13:22:15.000Z"
   },
   {
-    "title": "Digital Oasis",
-    "price": 315,
-    "imageCover": "digital_oasis.jpg"
+    "title": "Digital Mirage",
+    "price": 210.0,
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 22,
+    "summary": "An abstract digital landscape blending reality and illusion.",
+    "description": "Digital Mirage combines elements of both reality and illusion to create a surreal landscape. The AI-generated forms and colors produce a sense of depth and mystery, perfect for adding intrigue to any room.",
+    "imageCover": "digital_mirage_cover.jpg",
+    "images": ["digital_mirage_1.jpg", "digital_mirage_2.jpg"],
+    "createdAt": "2024-08-20T10:14:00.000Z"
   },
   {
-    "title": "Luminous Dream",
-    "price": 260,
-    "imageCover": "luminous_dream.jpg"
+    "title": "Celestial Whispers",
+    "price": 300.0,
+    "ratingsAverage": 4.9,
+    "ratingsQuantity": 34,
+    "summary": "A delicate representation of celestial bodies and cosmic dust.",
+    "description": "Celestial Whispers is an ethereal artwork that delicately portrays celestial bodies and cosmic dust in a harmonious dance. The AI has created a visual symphony of subtle light and shadow, making it an excellent piece for a tranquil space.",
+    "imageCover": "celestial_whispers_cover.jpg",
+    "images": [
+      "celestial_whispers_1.jpg",
+      "celestial_whispers_2.jpg",
+      "celestial_whispers_3.jpg"
+    ],
+    "createdAt": "2024-08-19T07:45:50.000Z"
   },
   {
-    "title": "Mystic Landscapes",
-    "price": 350,
-    "imageCover": "mystic_landscapes.jpg"
+    "title": "Artificial Eden",
+    "price": 275.0,
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 27,
+    "summary": "A futuristic garden filled with AI-generated flora.",
+    "description": "Artificial Eden presents a futuristic garden where nature meets technology. The AI-generated flora and fauna are both familiar and alien, creating a vision of a world where technology has seamlessly integrated with nature.",
+    "imageCover": "artificial_eden_cover.jpg",
+    "images": ["artificial_eden_1.jpg", "artificial_eden_2.jpg"],
+    "createdAt": "2024-08-18T16:30:00.000Z"
   },
   {
-    "title": "Galactic Whispers",
-    "price": 420,
-    "imageCover": "galactic_whispers.jpg"
+    "title": "Echoes of Time",
+    "price": 220.0,
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 20,
+    "summary": "A surreal depiction of time and memory through abstract forms.",
+    "description": "Echoes of Time is an artwork that explores the concepts of time and memory through abstract forms and colors. The AI has created a piece that feels both nostalgic and futuristic, making it a thought-provoking addition to any collection.",
+    "imageCover": "echoes_of_time_cover.jpg",
+    "images": ["echoes_of_time_1.jpg", "echoes_of_time_2.jpg"],
+    "createdAt": "2024-08-17T14:50:10.000Z"
   },
   {
-    "title": "Surreal Echoes",
-    "price": 180,
-    "imageCover": "surreal_echoes.jpg"
+    "title": "Liquid Harmony",
+    "price": 195.0,
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 15,
+    "summary": "A fluid and dynamic piece representing harmony in motion.",
+    "description": "Liquid Harmony captures the essence of movement and balance through fluid forms and gradients. The AI-generated artwork exudes a sense of calm and flow, making it a perfect choice for spaces designed for relaxation and meditation.",
+    "imageCover": "liquid_harmony_cover.jpg",
+    "images": ["liquid_harmony_1.jpg", "liquid_harmony_2.jpg"],
+    "createdAt": "2024-08-16T12:05:40.000Z"
   },
   {
-    "title": "Virtual Harmony",
-    "price": 200,
-    "imageCover": "virtual_harmony.jpg"
+    "title": "Galactic Symphony",
+    "price": 350.0,
+    "ratingsAverage": 4.9,
+    "ratingsQuantity": 40,
+    "summary": "A grand orchestration of colors and shapes inspired by the galaxy.",
+    "description": "Galactic Symphony is an awe-inspiring piece that draws inspiration from the vastness of the galaxy. The AI-generated artwork features swirling colors and dynamic shapes, creating a sense of movement and energy that is truly cosmic.",
+    "imageCover": "galactic_symphony_cover.jpg",
+    "images": [
+      "galactic_symphony_1.jpg",
+      "galactic_symphony_2.jpg",
+      "galactic_symphony_3.jpg"
+    ],
+    "createdAt": "2024-08-15T18:45:00.000Z"
   },
   {
-    "title": "Fantasia Fusion",
-    "price": 275,
-    "imageCover": "fantasia_fusion.jpg"
+    "title": "Cybernetic Dreams",
+    "price": 260.0,
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 28,
+    "summary": "A futuristic vision of a world where technology and dreams converge.",
+    "description": "Cybernetic Dreams presents a vision of a future where the boundaries between technology and dreams are blurred. The AI-generated imagery combines sleek, metallic forms with ethereal, dreamlike elements, creating a unique and thought-provoking piece.",
+    "imageCover": "cybernetic_dreams_cover.jpg",
+    "images": ["cybernetic_dreams_1.jpg", "cybernetic_dreams_2.jpg"],
+    "createdAt": "2024-08-14T20:22:10.000Z"
   },
   {
-    "title": "Spectral Paradigm",
-    "price": 495,
-    "imageCover": "spectral_paradigm.jpg"
+    "title": "Eternal Bloom",
+    "price": 240.0,
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 25,
+    "summary": "A stunning display of AI-generated flowers in perpetual bloom.",
+    "description": "Eternal Bloom is an artwork that features AI-generated flowers in a state of perpetual bloom. The vibrant colors and intricate details create a sense of vitality and beauty that feels both timeless and modern.",
+    "imageCover": "eternal_bloom_cover.jpg",
+    "images": [
+      "eternal_bloom_1.jpg",
+      "eternal_bloom_2.jpg",
+      "eternal_bloom_3.jpg"
+    ],
+    "createdAt": "2024-08-13T15:30:45.000Z"
   },
   {
-    "title": "Prismatic Dreams",
-    "price": 125,
-    "imageCover": "prismatic_dreams.jpg"
+    "title": "Chromatic Wave",
+    "price": 190.0,
+    "ratingsAverage": 4.4,
+    "ratingsQuantity": 19,
+    "summary": "A vibrant and colorful wave of AI-generated abstract forms.",
+    "description": "Chromatic Wave is an abstract artwork that features a vibrant wave of colors and shapes, all generated by AI. The dynamic movement and bold color choices make it an exciting and eye-catching piece for any modern space.",
+    "imageCover": "chromatic_wave_cover.jpg",
+    "images": ["chromatic_wave_1.jpg", "chromatic_wave_2.jpg"],
+    "createdAt": "2024-08-12T10:05:30.000Z"
   },
   {
-    "title": "Infinity's Canvas",
-    "price": 375,
-    "imageCover": "infinitys_canvas.jpg"
+    "title": "Prismatic City",
+    "price": 225.0,
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 32,
+    "summary": "A dazzling cityscape rendered in a spectrum of prismatic colors.",
+    "description": "Prismatic City offers a dazzling view of an urban landscape, rendered in a spectrum of prismatic colors. The AI-generated artwork captures the energy and vibrancy of a bustling city, with layers of detail that offer something new with each viewing.",
+    "imageCover": "prismatic_city_cover.jpg",
+    "images": ["prismatic_city_1.jpg", "prismatic_city_2.jpg"],
+    "createdAt": "2024-08-11T11:10:55.000Z"
+  },
+  {
+    "title": "Echoes of Eternity",
+    "price": 280.0,
+    "ratingsAverage": 4.9,
+    "ratingsQuantity": 38,
+    "summary": "A mesmerizing artwork that echoes the vastness of time and space.",
+    "description": "Echoes of Eternity is an AI-generated artwork that explores the infinite nature of time and space. The piece features swirling colors and patterns that seem to stretch out into eternity, creating a sense of awe and wonder.",
+    "imageCover": "echoes_of_eternity_cover.jpg",
+    "images": ["echoes_of_eternity_1.jpg", "echoes_of_eternity_2.jpg"],
+    "createdAt": "2024-08-10T14:25:00.000Z"
   }
 ]
